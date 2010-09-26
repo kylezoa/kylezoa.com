@@ -51,6 +51,7 @@ body {
     }
 
     #links {
+        margin-top: 1px;
         float: right;
     }
 
