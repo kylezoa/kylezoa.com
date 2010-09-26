@@ -8,11 +8,23 @@
  * Everyone is permitted to copy and distribute verbatim or modified
  * copies of this license document, and changing it is allowed as long
  * as the name is changed.
-
+ *
  *          DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  * TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
  *
  * 0. You just DO WHAT THE FUCK YOU WANT TO. 
  */ 
 
+html {height: 100%}
 
+body {
+    color: #000;
+    background-color: #FFF;
+    font-size: 14pt;
+    font-family: "Helvetica Neue", Lucida, Verdana, sans-serif;
+}
+
+#content {
+    width: 700px;
+    margin: 200px 0px 0px 50px;
+}
