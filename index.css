@@ -35,12 +35,23 @@ body {
     background-color: #000;
 }
 
-#headerimg {
-    margin-left: 50px;
-    background: url(images/headerimg.gif);
+/*header img row*/
+
+#header {
     height: 71px;
-    width: 200px;
+    width: 700px;
 }
+
+    #headerimg {
+        margin: 0 250px 0 50px;
+        background: url(images/headerimg.gif);
+        height: 71px;
+        width: 200px;
+    }
+
+    #links {
+        float: right;
+    }
 
 #content {
     width: 700px;
