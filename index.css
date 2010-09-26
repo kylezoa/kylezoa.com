@@ -26,6 +26,8 @@ body {
 }
 
 /*beefy stuff*/
+
+/*the top line above headerimg*/
 #lineheader {
     width: 100%;
     height: 2px;
@@ -33,7 +35,25 @@ body {
     background-color: #000;
 }
 
+#headerimg {
+    margin-left: 50px;
+    background: url(images/headerimg.gif);
+    height: 71px;
+    width: 200px;
+}
+
 #content {
     width: 700px;
-    margin: 200px 0px 0px 50px;
+    margin: 50px 0 0 50px;
 }
+
+/*link*/
+a:hover {
+		text-decoration:none;
+		color:blue;
+}
+
+a:link, a:visited {
+	color:#000;
+}
+
