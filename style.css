@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+/*global necessities*/
+
+html {height : 100%}
+
+body {
+    color : #000;
+    background : #FFF;
+    font-size : 13pt;
+    font-family : Helvetica-Neue, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
