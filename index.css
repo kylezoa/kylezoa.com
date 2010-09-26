@@ -37,13 +37,14 @@ body {
 
 /*header img row*/
 
-#header {
+#headerwrap {
+    margin-left: 50px;
     height: 71px;
-    width: 700px;
+    width: 750px;
 }
 
     #headerimg {
-        margin: 0 250px 0 50px;
+        float: left;
         background: url(images/headerimg.gif);
         height: 71px;
         width: 200px;
@@ -51,6 +52,7 @@ body {
 
     #links {
         float: right;
+        margin-top: 15px;
     }
 
 #content {
