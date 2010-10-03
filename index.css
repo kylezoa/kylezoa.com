@@ -60,17 +60,21 @@ body {
     #links {
         margin-top: 1px;
         float: right;
+        height: 71px;
     }
 
         .icons {
-            display: block;
+            display: inline-block;
             height: 71px;
             width: 71px;
             text-indent: -99999px;
         }
 
-            .twitter { background: url(images/linkicons/twitter.png); }
-            .twitter:hover { background: url(images/linkicons/twitter_h.png); }
+            .twitter { background: url(images/linkicons/twitter.png) }
+            .twitter:hover { background: url(images/linkicons/twitter_h.png) }
+
+            .lastfm { background: url(images/linkicons/lastfm.png) }
+            .lastfm:hover { background: url(images/linkicons/lastfm_h.png) }
 
 /*body*/
 #content {
