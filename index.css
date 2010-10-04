@@ -16,7 +16,7 @@
  */ 
 
 /*prereqs*/
-html {height: 100%}
+html { height: 100% }
 
 body {
     color: #000;
@@ -75,6 +75,9 @@ body {
 
             .lastfm { background: url(images/linkicons/lastfm.png) }
             .lastfm:hover { background: url(images/linkicons/lastfm_h.png) }
+
+            .flickr { background: url(images/linkicons/flickr.png) }
+            .flickr:hover { background: url(images/linkicons/flickr_h.png) }
 
 /*body*/
 #content {
