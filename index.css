@@ -27,13 +27,6 @@ body {
 
 /*beefy stuff*/
 
-#background {
-    margin-top: 100px;
-    background: url(images/background.png);
-    width: 800px;
-    height: 600px;
-}
-
 /*the top line above headerimg*/
 #lineheader {
     width: 100%;
