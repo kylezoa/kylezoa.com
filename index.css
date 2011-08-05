@@ -49,6 +49,8 @@ body {
         height: 71px;
         width: 200px;
     }
+    #headerimg:hover { background-position: 0 71px; }
+
 
     #links {
         margin-top: 1px;
@@ -63,14 +65,13 @@ body {
             text-indent: -99999px;
         }
 
+        .icons:hover { background-position: 0 71px; }
+
             .twitter { background: url(images/linkicons/twitter.png) }
-            .twitter:hover { background: url(images/linkicons/twitter_h.png) }
 
             .lastfm { background: url(images/linkicons/lastfm.png) }
-            .lastfm:hover { background: url(images/linkicons/lastfm_h.png) }
 
             .flickr { background: url(images/linkicons/flickr.png) }
-            .flickr:hover { background: url(images/linkicons/flickr_h.png) }
 
 /*body*/
 #content {
